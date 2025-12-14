@@ -1,0 +1,5 @@
+{
+  "name": "OmniScribe Pro",
+  "description": "A professional-grade, long-context audio and video transcription tool powered by Gemini 1.5 Flash. Designed to handle hours of audio without semantic loss.",
+  "requestFramePermissions": []
+}
